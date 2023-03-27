@@ -2,4 +2,4 @@
  projetos realizados durante a disciplina de Angular
 
 
- alteração
+  commit inicial do projeto
